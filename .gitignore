@@ -2,3 +2,4 @@ out
 node_modules
 debug.log
 *.vsix
+/.vscode/tasks.json.old
